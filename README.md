@@ -147,6 +147,8 @@ Based on the final dashboard:
 **Winning formats:** Video > Stories  
 **Recommendation:** Reallocate spend toward top-performing formats.
 
+Note: The insights below reflect Facebook campaign performance. Instagram insights are available on the second page of the Power BI dashboard.
+
 ---
 
 ## 💡 Recommendations (Actionable)
@@ -195,5 +197,5 @@ Based on the final dashboard:
 
 This repository serves as **Task 2 of the internship**, demonstrating end-to-end analytical capability across data modeling, dashboarding, KPI measurement, insights generation, and strategic recommendations.
 
-
+---
 
