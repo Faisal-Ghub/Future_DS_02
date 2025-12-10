@@ -8,7 +8,7 @@ This project presents a comprehensive Power BI dashboard analyzing advertising p
 
 Below is a preview of the developed dashboard:
 
-![Dashboard Overview](Dashboard Overview.png)
+![Dashboard Overview](Dashboard\ Overview.png)
 
 ---
 
